@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac</string>
+    <string name="background_image">background</string>
+    <string name="logo" />
+    <string name="name_image">image</string>
+    <string name="start">Touch To Start</string>
+    <string name="box">box</string>
+    <string name="blank"> </string>
+</resources>
