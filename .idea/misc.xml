@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/drawable/playerbox.xml" value="0.21" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/drawable/playertwobox.xml" value="0.21" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/drawable/winner_dailogue.xml" value="0.21" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/drawable/winner_dialogue.xml" value="0.21" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/layout/activity_game.xml" value="0.264" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/layout/activity_start.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/layout/activity_startactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/layout/winner_dialogue.xml" value="0.25" />
       </map>
     </option>
   </component>

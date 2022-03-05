@@ -6,4 +6,7 @@
     <string name="start">Touch To Start</string>
     <string name="box">box</string>
     <string name="blank"> </string>
+    <string name="game_result">Game Result</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
 </resources>

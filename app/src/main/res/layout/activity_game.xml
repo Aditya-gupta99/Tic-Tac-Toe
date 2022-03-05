@@ -76,12 +76,14 @@
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/button1"
-                    style="?android:attr/buttonBarButtonStyle"
                     android:layout_width="wrap_content"
-                    android:layout_height="46pt"
-                    android:layout_marginLeft="8sp"
-                    android:layout_marginRight="8sp"
+                    android:layout_height="42pt"
+                    android:layout_marginLeft="7sp"
+                    android:layout_marginTop="4sp"
+                    android:layout_marginRight="4sp"
+                    android:layout_marginBottom="4sp"
                     android:layout_weight="1"
+                    android:background="@null"
                     android:onClick="buclick"
                     android:textSize="40sp"
                     app:iconTintMode="add"
@@ -89,21 +91,26 @@
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/button2"
-                    style="?android:attr/buttonBarButtonStyle"
                     android:layout_width="wrap_content"
-                    android:layout_height="46pt"
+                    android:layout_height="42pt"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="4sp"
+                    android:layout_marginBottom="4sp"
                     android:layout_weight="1"
+                    android:background="@null"
                     android:onClick="buclick"
                     android:textSize="40sp" />
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/button3"
-                    style="?android:attr/buttonBarButtonStyle"
                     android:layout_width="wrap_content"
-                    android:layout_height="46pt"
+                    android:layout_height="42pt"
                     android:layout_marginLeft="8sp"
-                    android:layout_marginRight="8sp"
+                    android:layout_marginTop="4sp"
+                    android:layout_marginRight="6sp"
+                    android:layout_marginBottom="4sp"
                     android:layout_weight="1"
+                    android:background="@null"
                     android:onClick="buclick"
                     android:textSize="40sp" />
             </TableRow>
@@ -114,32 +121,39 @@
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/button4"
-                    style="?android:attr/buttonBarButtonStyle"
                     android:layout_width="wrap_content"
-                    android:layout_height="46pt"
-                    android:layout_marginLeft="8sp"
-                    android:layout_marginRight="8sp"
+                    android:layout_height="42pt"
+                    android:layout_marginLeft="7sp"
+                    android:layout_marginTop="4sp"
+                    android:layout_marginRight="4sp"
+                    android:layout_marginBottom="4sp"
                     android:layout_weight="1"
+                    android:background="@null"
                     android:onClick="buclick"
                     android:textSize="40sp" />
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/button5"
-                    style="?android:attr/buttonBarButtonStyle"
                     android:layout_width="wrap_content"
-                    android:layout_height="46pt"
+                    android:layout_height="42pt"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="4sp"
+                    android:layout_marginBottom="4sp"
                     android:layout_weight="1"
+                    android:background="@null"
                     android:onClick="buclick"
                     android:textSize="40sp" />
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/button6"
-                    style="?android:attr/buttonBarButtonStyle"
                     android:layout_width="wrap_content"
-                    android:layout_height="46pt"
+                    android:layout_height="42pt"
                     android:layout_marginLeft="8sp"
-                    android:layout_marginRight="8sp"
+                    android:layout_marginTop="4sp"
+                    android:layout_marginRight="6sp"
+                    android:layout_marginBottom="4sp"
                     android:layout_weight="1"
+                    android:background="@null"
                     android:onClick="buclick"
                     android:textSize="40sp" />
             </TableRow>
@@ -150,32 +164,39 @@
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/button7"
-                    style="?android:attr/buttonBarButtonStyle"
                     android:layout_width="wrap_content"
-                    android:layout_height="46pt"
-                    android:layout_marginLeft="8sp"
-                    android:layout_marginRight="8sp"
+                    android:layout_height="42pt"
+                    android:layout_marginLeft="7sp"
+                    android:layout_marginTop="4sp"
+                    android:layout_marginRight="4sp"
+                    android:layout_marginBottom="4sp"
                     android:layout_weight="1"
+                    android:background="@null"
                     android:onClick="buclick"
                     android:textSize="40sp" />
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/button8"
-                    style="?android:attr/buttonBarButtonStyle"
                     android:layout_width="wrap_content"
-                    android:layout_height="46pt"
+                    android:layout_height="42pt"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="4sp"
+                    android:layout_marginBottom="4sp"
                     android:layout_weight="1"
+                    android:background="@null"
                     android:onClick="buclick"
                     android:textSize="40sp" />
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/button9"
-                    style="?android:attr/buttonBarButtonStyle"
                     android:layout_width="wrap_content"
-                    android:layout_height="46pt"
+                    android:layout_height="42pt"
                     android:layout_marginLeft="8sp"
-                    android:layout_marginRight="8sp"
+                    android:layout_marginTop="4sp"
+                    android:layout_marginRight="6sp"
+                    android:layout_marginBottom="4sp"
                     android:layout_weight="1"
+                    android:background="@null"
                     android:onClick="buclick"
                     android:textSize="40sp" />
             </TableRow>
