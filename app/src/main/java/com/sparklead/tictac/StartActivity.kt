@@ -3,7 +3,6 @@ package com.sparklead.tictac
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_startactivity.*
 
 class StartActivity : AppCompatActivity() {
@@ -14,19 +13,26 @@ class StartActivity : AppCompatActivity() {
         val intent = Intent(this ,GameActivity::class.java)
 
         image2_1.setOnClickListener {
+
             startActivity(intent)
+            overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left)
         }
         image2_2.setOnClickListener {
+
             startActivity(intent)
+            overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left)
         }
         background1.setOnClickListener {
+
             startActivity(intent)
+            overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left)
         }
 
         start_text.setOnClickListener {
-            startActivity(intent)
-        }
 
+            startActivity(intent)
+            overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left)
+        }
 
     }
 }

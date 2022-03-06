@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/drawable/playerbox.xml" value="0.21" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/drawable/playeronebox.xml" value="0.21" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/drawable/playertwobox.xml" value="0.21" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/drawable/winner_dailogue.xml" value="0.21" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/drawable/winner_dialogue.xml" value="0.21" />
@@ -12,6 +13,8 @@
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/layout/activity_start.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/layout/activity_startactivity.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/layout/winner_dialogue.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TicTac/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21" />
       </map>
     </option>
   </component>

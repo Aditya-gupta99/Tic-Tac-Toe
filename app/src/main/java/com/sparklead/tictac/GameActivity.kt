@@ -17,6 +17,7 @@ class GameActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_game)
 
+
     }
 
 
@@ -169,12 +170,14 @@ class GameActivity : AppCompatActivity() {
                 val intent = Intent(this,StartActivity::class.java)
                 finish()
                 startActivity(intent)
+                overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right)
 
             }
             dialog.playagain.setOnClickListener {
                 val intent= Intent(this,GameActivity::class.java)
                 finish()
                 startActivity(intent)
+                overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right)
             }
             dialog.show()
         }
@@ -191,11 +194,13 @@ class GameActivity : AppCompatActivity() {
                 val intent = Intent(this,StartActivity::class.java)
                 finish()
                 startActivity(intent)
+                overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right)
             }
             dialog.playagain.setOnClickListener {
                 val intent= Intent(this,GameActivity::class.java)
                 finish()
                 startActivity(intent)
+                overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right)
             }
             dialog.show()
 
@@ -213,11 +218,13 @@ class GameActivity : AppCompatActivity() {
                 val intent = Intent(this,StartActivity::class.java)
                 finish()
                 startActivity(intent)
+                overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right)
             }
             dialog.playagain.setOnClickListener {
                 val intent= Intent(this,GameActivity::class.java)
                 finish()
                 startActivity(intent)
+                overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right)
             }
             dialog.show()
 
@@ -225,5 +232,12 @@ class GameActivity : AppCompatActivity() {
 
 
     }
+
+    override fun finish()
+    {
+        super.finish()
+        overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right)
+    }
+
 
 }
